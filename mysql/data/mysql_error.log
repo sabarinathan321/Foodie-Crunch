@@ -1,0 +1,897 @@
+2015-11-10 15:26:56 10fc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-11-10 15:26:56 4348 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2015-11-10 15:26:56 4348 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-11-10 15:26:56 4348 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Memory barrier is not used
+2015-11-10 15:26:56 4348 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-11-10 15:26:56 4348 [Note] InnoDB: Not using CPU crc32 instructions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-11-10 15:26:56 4348 [Note] InnoDB: Completed initialization of buffer pool
+2015-11-10 15:26:56 4348 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-11-10 15:26:57 4348 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-11-10 15:26:57 4348 [Note] InnoDB: Waiting for purge to start
+2015-11-10 15:26:57 4348 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.26-74.0 started; log sequence number 1835027
+2015-11-10 15:26:57 6140 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2015-11-10 15:26:57 4348 [Note] Plugin 'FEEDBACK' is disabled.
+2015-11-10 15:26:57 4348 [Note] Server socket created on IP: '::'.
+2015-11-10 15:26:57 4348 [Note] Event Scheduler: Loaded 0 events
+2015-11-10 15:26:57 4348 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2015-11-10 15:27:11 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+2015-11-10 15:27:11 5152 [Note] Event Scheduler: Purging the queue. 0 events
+2015-11-10 15:27:11 5732 [Note] InnoDB: FTS optimize thread exiting.
+2015-11-10 15:27:11 5152 [Note] InnoDB: Starting shutdown...
+2015-11-10 15:27:13 5152 [Note] InnoDB: Shutdown completed; log sequence number 1835037
+2015-11-10 15:27:13 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2018-06-15 16:19:29 2b80 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-15 16:19:29 11136 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-15 16:19:29 11136 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-15 16:19:29 11136 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 16:19:29 11136 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-15 16:19:29 11136 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-15 16:19:29 11136 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 16:19:29 11136 [Note] InnoDB: Using generic crc32 instructions
+2018-06-15 16:19:29 11136 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-15 16:19:29 11136 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 16:19:29 11136 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 16:19:29 11136 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 16:19:29 11136 [Note] InnoDB: Waiting for purge to start
+2018-06-15 16:19:29 11136 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1835037
+2018-06-15 16:19:29 11116 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-15 16:19:29 11136 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-15 16:19:29 11136 [Note] Server socket created on IP: '::'.
+2018-06-15 16:19:29 11136 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-15 16:22:28 1eb0 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-15 16:22:28 7856 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-15 16:22:29 7856 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-15 16:22:29 7856 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 16:22:29 7856 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-15 16:22:29 7856 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-15 16:22:29 7856 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 16:22:29 7856 [Note] InnoDB: Using generic crc32 instructions
+2018-06-15 16:22:29 7856 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-15 16:22:29 7856 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 16:22:29 7856 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 16:22:29 7856 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1835181 in the ib_logfiles!
+2018-06-15 16:22:29 7856 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-15 16:22:30 7856 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 16:22:30 7856 [Note] InnoDB: Waiting for purge to start
+2018-06-15 16:22:30 7856 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1835181
+2018-06-15 16:22:31 1484 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-15 16:22:31 7856 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-15 16:22:31 7856 [Note] Server socket created on IP: '::'.
+2018-06-15 16:22:31 7856 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-15 16:22:44 4732 [Warning] InnoDB: Cannot open table foodie/queries from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:22:58 4732 [Warning] InnoDB: Cannot open table foodie/queries from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:22:58 4732 [Warning] InnoDB: Cannot open table foodie/register from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:22:58 4732 [Warning] InnoDB: Cannot open table foodie/room from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:22:58 4732 [Warning] InnoDB: Cannot open table foodie/table123 from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:22:58 4732 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:22:58 4732 [Warning] InnoDB: Cannot open table foodie/tables from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:03 10684 [Warning] InnoDB: Cannot open table foodie/queries from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:34 10684 [Warning] InnoDB: Cannot open table foodie/queries from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:37 4732 [Warning] InnoDB: Cannot open table foodie/queries from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:41 10684 [Warning] InnoDB: Cannot open table foodie/queries from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:41 10684 [Warning] InnoDB: Cannot open table foodie/register from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:41 10684 [Warning] InnoDB: Cannot open table foodie/room from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:41 10684 [Warning] InnoDB: Cannot open table foodie/table123 from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:41 10684 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:23:41 10684 [Warning] InnoDB: Cannot open table foodie/tables from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 16:58:27 62c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-15 16:58:27 1580 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-15 16:58:27 1580 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-15 16:58:27 1580 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 16:58:27 1580 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-15 16:58:27 1580 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-15 16:58:27 1580 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 16:58:27 1580 [Note] InnoDB: Using generic crc32 instructions
+2018-06-15 16:58:27 1580 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-15 16:58:27 1580 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 16:58:28 1580 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 16:58:28 1580 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1835396 in the ib_logfiles!
+2018-06-15 16:58:29 1580 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-15 16:58:31 1580 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 16:58:31 1580 [Note] InnoDB: Waiting for purge to start
+2018-06-15 16:58:31 1580 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1835396
+2018-06-15 16:58:31 9480 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-15 16:58:31 1580 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-15 16:58:31 1580 [Note] Server socket created on IP: '::'.
+2018-06-15 16:58:32 1580 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-15 17:49:57 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:54:49 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:54:49 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:54:49 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:54:49 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:56:28 10096 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:56:28 10096 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:56:28 10096 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:56:28 10096 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:57:55 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:57:55 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:57:55 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:58:48 10096 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:58:48 10096 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 17:58:48 10096 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 18:08:59 9496 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-15 18:52:00 ab4 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-15 18:52:00 2740 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-15 18:52:00 2740 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-15 18:52:00 2740 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 18:52:00 2740 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-15 18:52:00 2740 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-15 18:52:00 2740 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 18:52:00 2740 [Note] InnoDB: Using generic crc32 instructions
+2018-06-15 18:52:00 2740 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-15 18:52:00 2740 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 18:52:01 2740 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 18:52:01 2740 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2216038 in the ib_logfiles!
+2018-06-15 18:52:02 2740 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-15 18:52:05 2740 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 18:52:05 2740 [Note] InnoDB: Waiting for purge to start
+2018-06-15 18:52:05 2740 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2216038
+2018-06-15 18:52:05 856 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-15 18:52:05 2740 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-15 18:52:05 2740 [Note] Server socket created on IP: '::'.
+2018-06-15 18:52:05 2740 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-15 18:59:20 28b8 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-15 18:59:20 10424 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-15 18:59:20 10424 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-15 18:59:20 10424 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 18:59:20 10424 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-15 18:59:20 10424 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-15 18:59:20 10424 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 18:59:20 10424 [Note] InnoDB: Using generic crc32 instructions
+2018-06-15 18:59:20 10424 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-15 18:59:20 10424 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 18:59:20 10424 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 18:59:20 10424 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2216307 in the ib_logfiles!
+2018-06-15 18:59:21 10424 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-15 18:59:22 10424 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 18:59:22 10424 [Note] InnoDB: Waiting for purge to start
+2018-06-15 18:59:22 10424 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2216307
+2018-06-15 18:59:22 7380 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-15 18:59:22 10424 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-15 18:59:22 10424 [Note] Server socket created on IP: '::'.
+2018-06-15 18:59:22 10424 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-15 19:39:29 2574 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-15 19:39:29 9588 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-15 19:39:29 9588 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-15 19:39:29 9588 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 19:39:29 9588 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-15 19:39:29 9588 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-15 19:39:29 9588 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 19:39:29 9588 [Note] InnoDB: Using generic crc32 instructions
+2018-06-15 19:39:29 9588 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-15 19:39:29 9588 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 19:39:30 9588 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 19:39:30 9588 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2218860 in the ib_logfiles!
+2018-06-15 19:39:31 9588 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-15 19:39:32 9588 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 19:39:32 9588 [Note] InnoDB: Waiting for purge to start
+2018-06-15 19:39:32 9588 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2218860
+2018-06-15 19:39:32 8672 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-15 19:39:32 9588 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-15 19:39:32 9588 [Note] Server socket created on IP: '::'.
+2018-06-15 19:39:33 9588 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-15 19:56:42 68 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-15 19:56:42 104 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-15 19:56:42 104 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-15 19:56:42 104 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 19:56:42 104 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-15 19:56:42 104 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-15 19:56:42 104 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 19:56:42 104 [Note] InnoDB: Using generic crc32 instructions
+2018-06-15 19:56:43 104 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-15 19:56:43 104 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 19:56:43 104 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 19:56:43 104 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2218870 in the ib_logfiles!
+2018-06-15 19:56:43 104 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-15 19:56:44 104 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 19:56:44 104 [Note] InnoDB: Waiting for purge to start
+2018-06-15 19:56:44 104 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2218870
+2018-06-15 19:56:44 3244 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-15 19:56:44 104 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-15 19:56:44 104 [Note] Server socket created on IP: '::'.
+2018-06-15 19:56:45 104 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-16 10:38:08 2184 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-16 10:38:08 8580 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-16 10:38:08 8580 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-16 10:38:08 8580 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-16 10:38:08 8580 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-16 10:38:08 8580 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-16 10:38:08 8580 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-16 10:38:08 8580 [Note] InnoDB: Using generic crc32 instructions
+2018-06-16 10:38:08 8580 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-16 10:38:08 8580 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-16 10:38:09 8580 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-16 10:38:09 8580 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2219160 in the ib_logfiles!
+2018-06-16 10:38:10 8580 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-16 10:38:19 8580 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-16 10:38:19 8580 [Note] InnoDB: Waiting for purge to start
+2018-06-16 10:38:19 8580 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2219160
+2018-06-16 10:38:21 1712 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-16 10:38:21 8580 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-16 10:38:21 8580 [Note] Server socket created on IP: '::'.
+2018-06-16 10:38:22 8580 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-16 11:03:11 6784 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:03:17 6784 [Warning] InnoDB: Cannot open table foodie/tables from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:03:23 6784 [Warning] InnoDB: Cannot open table foodie/tables from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:03:26 6784 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:06:36 6784 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:07:11 6784 [Warning] InnoDB: Cannot open table foodie/tables from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:07:33 9352 [Warning] InnoDB: Cannot open table foodie/tables from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:07:33 9352 [Warning] InnoDB: Cannot open table foodie/tables from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:07:36 6784 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:07:49 9352 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-16 11:07:50 9352 [Warning] InnoDB: Cannot open table foodie/tableonline from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-06-17 09:18:39 128 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-17  9:18:39 296 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-17  9:18:39 296 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-17  9:18:39 296 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-17  9:18:39 296 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-17  9:18:39 296 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-17  9:18:39 296 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-17  9:18:39 296 [Note] InnoDB: Using generic crc32 instructions
+2018-06-17  9:18:39 296 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-17  9:18:39 296 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-17  9:18:40 296 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-17  9:18:40 296 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2222430 in the ib_logfiles!
+2018-06-17  9:18:41 296 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-17  9:18:43 296 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-17  9:18:43 296 [Note] InnoDB: Waiting for purge to start
+2018-06-17  9:18:43 296 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2222430
+2018-06-17  9:18:43 10540 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-17  9:18:43 296 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-17  9:18:43 296 [Note] Server socket created on IP: '::'.
+2018-06-17  9:18:44 296 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2201081-80-60-62-72 70 90:90:7:0274: 2e48 81 fIancn oIDnBn:o DWBa:r nWianrgn:i nUgs:i nUgs iinngn oidnbn_oaddbd_iatdidointailo_nmaelm__pmoeoml__psize is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB'so oiln_tserinzael  imse mDoErPyR EaClAlToEcDa.t oTrh.i
+s op2t0i1o8n- 0m6a-y2 7b e  9r:e0m7o:v2e4d  3i7n2 0f u[tNuortee ]r eIlnenaosDeBs:,  itnongoedtbh_eerm pwtiyt_hf rtehee_ loipstti_oanl gionrniotdhbm_ uhsaes_ sbyese_nm aclhlaoncg eadn dt ow iltehg atchye  bIencnaouDsBe' so fi nstmearlnla lb umfefmeorr yp oaolll osciazteo.r .I
+n o2r0d1e8r- 0t6o- 2u7s e  9b:a0c7k:o2f4f ,8 1i0n8c r[eNaostee ]b uIfnfneorD Bp:o oiln naotd bl_eeamsptt yu_pf rteoe _2l0iMsBt._
+a
+lgorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2021081-80-6-0267- 27  9 :90:70:72:42 43 72801 0[8N o[tNeo]t eI]n nIonDnBo:D BU:s iUnsgi nmgu tmeuxteesx etso  troe fr ceofu ncto ubnutf fbeurf fpeoro lp opoalg epsa
+ges
+2018-06-27  9:20071:82-40 68-10287  [ N9o:t0e7]: 2I4n n3o7D2B0:  [TNhoet eI]n nIonDnBo DmBem:o rTyh eh eIanpn oiDsB  dmiesmaobrlye dh
+eap is disabled
+2018-06-27  9:07:24 8108 [N2o0t1e8]- 0I6n-n2o7D B :9 :M0u7t:e2x4e 37s2 a0n d[ Nrwo_tleo]c kIsn nuosDeB :W iMnudtoewxses  ianntde rrlwo_clkoecdk sf uunscet iWoinnsd
+ows interlocked functions
+2018-06-27  9:07:24 8120081 8[-N0o6t-e2]7  I n9n:o0D7B::2 4_ m3m7_2l0f e[nNcoet(e)]  aInndn o_DmBm:_ s_fmemn_clef(e)n caer(e)  uasnedd  _fmomr_ smfeemnocrey( )b aarrrei eurse
+d for memory barrier
+2018-06-27  9:07:24 8120081 8[-0N6o-t2e7]   I9n:n0o7D:B2:4  C3o7m2p0r e[ssNeodt et]a bIlnenso DuBs:e  Czolmipbr e1s.s2e.d3 
+tables use zlib 1.2.3
+2018-0620-182-70 6 -92:70 7 :92:40 78:12048  3[7N2o0t e[]N oItnen]o DIBn:n oUDsBi:n gU sgiennge rgiecn ecrric3c2  cirncs3t2r uicntsitornusc
+tions
+2018-06-27 09:07:24 2cb8 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-27  9:07:24 11448 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-27  9:07:24 11448 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-27  9:07:24 11448 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-27  9:07:24 11448 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-27  9:07:24 11448 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-27  9:07:24 11448 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-27  9:07:24 11448 [Note] InnoDB: Using generic crc32 instructions
+2018-06-27  9:07:24 3720 [Note] InnoDB:2 0I1n8i-t0i6a-l2i7z i n9g: 0b7u:f2f4e r1 1p42o40o81l 8,[- N0so6it-e]2 7I n n9o:DzBe:  =I n1i06t.i0aMl
+izing buffer pool, size = 16.0M
+7:24 8108 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-27  9:07:24 372018-06-27  9:07:24 11448 [Note] InnoDB: Completed initialization of2 01b8u-f0f6e-r2 7p o o9l:
+07:24 8108 [Note] InnoDB: Completed initialization2 of buffer pool
+0 [Note] InnoDB: Completed initialization of buffer pool
+2201081-80-60-62-72 70 90:90:70:72:42 41 f2accb 8 I n nIonDnBo:D BO:p eOrpaetriantgi nsgy sstyesmt eemr reorrr onru mnbuemrb e3r2  3i2n  ian  fai lfei loep eorpaetriaotni.o
+nI.n
+nIonDnBo:D BT:h eT heer reorrr omre amnesa ntsh atth aatn oatnhoetrh eprr opgrroagmr aims  iuss iunsgi nIgn nIonDnBo'DsB 'fsi lfeisl.e
+sI.n
+nIonDnBo:D BT:h iTsh imsi gmhitg hbte  bae  baa cbkaucpk uopr  oarn tainvtiirvuisr usso fstowfatrwea roer  oanro tahneort hienrs tiannsctea
+ncIen
+nIonnDoBD:B :o fo fM yMSyQSLQ.L .P lPelaesaes ec lcolsoes ei ti tt ot og egte tr irdi do fo ft htihsi se rerrorro.r
+.
+2018-06-27  9:07:27 3720 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-27  9:07:27 3720 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2226590 in the ib_logfiles!
+2018-06-27  9:07:29 3720 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-27  9:07:33 3720 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-27  9:07:33 3720 [Note] InnoDB: Waiting for purge to start
+2018-06-27  9:07:33 3720 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2226590
+2018-06-27  9:07:33 6940 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-27  9:07:33 3720 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-27  9:07:33 3720 [Note] Server socket created on IP: '::'.
+2018-06-27  9:07:34 3720 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-062-0271 80-90:60-72:73 40 92:c0b78: 3 4I n1nfoaDcB  :I nOnpoeDrBa:t iOnpge rsaytsitnegm  seyrsrtoerm  neurmrbeor r3 2n uimnb ear  f3i2l ei no pae rfaitlie oonp.e
+rIantniooDnB.:
+ ITnhneo DeBr:r oTrh em eearnrso rt hmaeta nasn otthhaetr  apnrootghrearm  pirso gursaimn gi sI nunsoiDnBg' sI nfniolDesB.'
+sI nfniolDeBs:. 
+TIhninso DmBi:g hTth ibse  mai gbhatc kbuep  ao rb aacnktuipv iorru sa nstoifvtiwraurse  soorf tawnaorteh eorr  iannsottahnecre 
+iInnsntoaDnBc:e 
+oIfn nMoyDSBQ:L .o fP MlyeSaQsLe.  cPlloesaes ei tc ltoos eg eitt  rtiod  goeft  trhiid so fe rtrhoirs. 
+error.
+2200181-806--0267- 2079 :0097::0474: 414f a2ccb 8  I nInnonDoBD:B :O pOepreartaitnign gs yssytsetme me rerrorror  nnuummbbere r3 23 2i ni na  af ifliel eo poepreartaitoino.n
+.I
+nInnonDoBD:B :T hTeh ee rerrororr  mmeeaannss  tthhaatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbackup or antivirus software or another instance
+InnoDB: of MySQL. Please cloascek uipt  otro  agnetti vriirdu so fs otfhtiwasr ee rorro ra.n
+other instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+201280-1086--0267- 2079 :0097::0574: 524c b81 f aIcn n oIDnBn:o DOBp:e rOapteirnagt isnygs tseyms teermr oerr rnourm bneurm b3e2r  i3n2  ai nf ial ef iolpee roapteiroant.i
+oInn.n
+oIDnBn:o DTBh:e  Tehrer oerr rmoera nmse atnhsa tt haanto tahneort hperro gprraomg riasm  uissi nugs iInngn oIDnBn'osD Bf'isl efisl.e
+sI.n
+nIonDnBo:D BT:h iTsh imsi gmhitg hbte  bae  baa ckup obra ckaunpt iovri raunst isvoifrtuwsa rseo fotrw aarneo tohre ra niontshtearn cien
+sItnannocDeB
+Inn:o DoBf:  MoyfS QMLy.S QPLl.e aPslee acsleo scel oits et oi tg etto  rgiedt  orfi dt hoifs  tehrirso re.r
+ror.
+22001188--060-62-72 70 90:90:80:80:40 41f a2cc b 8I n nIonDnBo:D BO:p eOrpaetriantgi nsgy sstyesmt eemr reorrr onru nmubmebre r3 232  iinn a f ial ef ioperatlieo no.p
+erIantniooDnB.:
+ ITnhneo DeBr:r oTrh em eearnrso rt hmaeta nasn otthhaetr  apnrootghrearm  pirso gursaimn gi sI nunsoiDnBg' sI nfniolDeBs'.s
+ IfninloeDsB.:
+ ITnhniosD Bm:i gThhti sb em iag hbta cbkeu pa  obra caknutpi voirr uasn tsiovfitrwuasr es oofrt waanroet hoerr  ainnostthaenrc ein
+sItnannocDeB
+:I nonfo DMBy:SQ Lo.f  PMlyeSaQsLe.  cPlloesaes ei tc ltoos eg eitt  rtiod  goeft  trhiids  oefr this errorr.o
+r.
+2018-06-27 09:08:14 2cb8  InnoDB: 2O018-06-27p 09e:r0a8t:i1n4g  1sfyasct e mI nenrorDoBr:  nOupmebreart i3n2g  isny sat efmi leer roopre rnautmiboenr. 
+32I ninno DaB :f iTlhee  oeprerroart imoena.n
+sI ntnhoaDtB :a nTohteh eerr rporro gmreaamn si st huasti nagn oItnhneorD Bp'rso gfrialme si.s
+ Iusninngo DIBn:n oTDhBi'ss  mfiiglhets .b
+eI nan obDaBc:k uTph iosr  maingthitv ibreu sa  sboafctkwuapr eo ro ra natniovtihreurs  isnosfttawnacree
+ Ionrn oaDnBo:t hoefr  MiynSsQtLa.n cPel
+eIansneo DcBl:o soef  iMty StQoL .g ePtl eraisde  ocfl otshei si te rtroo rg.e
+t rid of this error.
+22001188--0066--2277  0099::0088::2244  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDB:B :T hTeh ee rerrorro rm emaenasn st htahta ta naonotthehre rp rporgorgarma mi si su suisnign gI nInnonDoBD'Bs' sf iflielse.s
+.I
+nInnonDoBD:B :T hTihsi sm imgihgth tb eb ea  ab abcakcukpu po ro ra natnitviivriursu ss osfotfwtawraer eo ro ra naontohtehre ri nisntsatnacnec
+eI
+nInnonDoBD:B :o fo fM yMSyQSLQ.L .P lPelaesaes ec lcolsoes ei ti tt ot og egte tr irdi do fo ft htihsi se rerrorro.r
+.
+201280-1086--2076 -0297: 0089::3048 :13f4a c2 c bI8n n oIDnBn:o DOBp:e rOapteirnagt isnygs tseyms teermr oerr rnourm bneurm b3e2r  i3n2  ai nf ial ef iolpee roapteiroant.i
+oInn.n
+oIDnBno:D BT:h eT heer reorrr omre amnesa ntsh atth aatn oatnhoetrh eprr opgrroagmr aims  iuss iunsgin gI nnIoDnBn'osD Bf'isl efsi.l
+eIsn.n
+oIDnBn:o DTBh:i sT hmiisg hmti gbhet  ab eb aac kbuapc kourp  aonrt iavnitriuvsi rsuosf tswoafrtew aorre  aonro tahneort hienrs tiannsctea
+nIcnen
+oIDnBn:o DoBf:  MoyfS QMLy.S QPLl.e aPslee acsleo scel oiste  tiot  gteot  greitd  roifd  tohfi st heirsr oer.r
+ror.
+22001188--006-62-72 70 90:90:80:84:44 41 f2accb 8  I nInnonDoBD:B :O pOepreartaitnign gs yssytsetme me rerrorro rn unmubmebre r3 23 2i ni na  af ifliel eo poepreartaitoino.n
+.I
+nInnonDoBD:B :T hTeh ee rerrorr omre amnesa ntsh atth aatn oatnhoetrh eprr opgrroagmr aims  iuss iunsgi nIgn nIonDnBo'DsB 'fsi lfeisl.e
+sI.n
+nIonDnBo:D BT:h iTsh imsi gmhitg hbte  bae  baa cbkaucpk uopr  oarn tainvtiivriursu ss osfotfwtawraer eo ro ra naontohtehre ri nisntsatnacnec
+eI
+nInnonDoBD:B :o fo fM ySMQyLS.Q LP.l ePalseea scel ocsleo siet  itto  tgoe tg erti dr iodf  otfh itsh iesr reorrr.or
+.
+22001188--0066--2277  0099::0088::5544  12fcabc8    IInnnnooDDBB: :O pOepreartaitnign gs yssytsetme me rerrorro rn unmubmebre r3 23 2i n ian  fai lfei loep eorpaetriaotni.o
+n.I
+nInnonDoBD:B :T hTeh ee rerrorro rm emaenasn st htahta ta naontohtehre rp rporgorgarma mi si su suisnign gI nInnonDoBD'Bs' sf iflielse.s
+.I
+nInnonDoBD:B :T hTihsi sm imgihgth tb eb ea  ab abcackukpu po ro ra natnitviivriursu ss osfotfwtawraer eo ro ra naontohtehre ri nisntsatnacnec
+eI
+nInnonDoBD:B :o fo fM yMSyQSLQ.L .P lPelaesaes ec lcolsoes ei ti tt ot og egte tr irdi do fof  tthhiiss  eerrrroorr..
+
+201280-1086--0267- 2079 :0099::0094: 014f a2cc b 8I n nIonDnBo:D BO:p eOrpaetriantgi nsgy sstyems teerror nmu mebrerro r3 2n uimnb ear  f3i2l ei no pae rfaitlieo no.p
+eIrnantoiDoBn:. 
+TIhnen oeDrBr:o rT hmee aenrsr otrh amte aannso tthheart  parnoogtrhaemr  ipsr ougsrianmg  iIsn nuosDiBn'gs  IfninloeDsB.'
+sI nfniolDeBs:. 
+TIhninso DmBi:g hTth ibse  mai gbhatc kbuep  ao br aacnktuipv iorru sa nstoifvtiwraurse  soorf tawnaorteh eorr  iannsottahnecre 
+inIsntnaonDcB:e 
+oIfn nMoyDSBQ:L .o fP lMeyaSsQeL .c lPolseea siet  ctloo sgee ti tr itdo  ogfe tt hriisd  eorfr otrh.i
+s error.
+2201081-80-60-62-72 70 90:90:90:91:41 41 f2cabc8    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDBB::  TThhee  eerrrroorr  mmeeaannss  tthhaatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckukpu po or antivri raunst isvoifrtuwsa rseo fotrw aarneo tohre ra niontshtearn cien
+sItnannocDeB
+:I nonfo DMBy:S QoLf.  MPylSeQaLs.e  Pclleoassee  ictl otsoe  giett  troi dg eotf  ritdh iosf  etrhrios errro.r
+.
+22001188--0066--2277  0099::0099::2244  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrror number r3o2r  innu mab efri l3e2  oipne raa tfiiolne. 
+opIenrnaotDiBo:n .T
+hIenn oeDrBr:o rT hmeans et heartr oarn omtehaenrs  ptrhoagtr aamn oitsh eurs ipnrgo gIrnanmo DiBs' su sifnigl eIsn.n
+oIDnBn'osD Bf:i lTehsi.s
+ ImningohDtB :b eT hai sb amcikguhpt  obre  aan tbiavcikruups  osro fatnwtairvei rours  asnooftthwearr ei nosrt aanncoet
+hIenrn oiDnBs:t aonfc eM
+yISnQnLo.D BP:l eoafs eM ycSlQoLs.e  Pilte atsoe  gcelto srei di to ft ot hgiest  errirdo ro.f
+ this error.
+22001188--0066--272 7 0099::0099::3344  21cfba8c    IInnnnooDDBB::  OOppeerraattinign gs yssytsetme me rerrorro rn unmubmebre r3 23 2i ni na  af ifliel eo poepreartaitoino.n
+.I
+nInnonDoBDB::  TThhee  eerrrroorr  mmeeaannss  tthhaatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckkuupp  oorr  aanntivirtusi vsiorfutsw asroef towra raen ootrh earn oitnhsetra nicnes
+tIannncoeD
+BI:n noofD BM:y SoQfL .M yPSlQeLa.s eP lcelaossee  cilto steo  igte tt or igde to fr itdh iosf  etrhriosr .e
+rror.
+2018-06-27 09:09:44 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get r2i0d1 8o-f0 6t-h2i7s  0e9r:r0o9r:.4
+4 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:09:54 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that2 0a1n8o-t0h6e-r2 7p r0o9g:r0a9m: 5i4s  2ucsbi8n g  IInnnnooDDBB:' sO pfielreast.i
+nIgn nsoyDsBt:e mT heirsr omri gnhutm bbeer  a3 2b aicnk uap  foirl ea notpievriartuiso ns.o
+fItnwnaorDeB :o rT hae neortrhoerr  mienasntsa ntchea
+tI nannooDtBh:e ro fp rMoygSrQaLm.  iPsl euassien gc lIonsneo DiBt' st of igleets .r
+iIdn noofD Bt:h iTsh iesr rmoirg.h
+t be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:10:04 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that 2a0n1o8t-h0e6r- 2p7r o0g9r:a1m0 :i0s4  u2scibn8g   InnIonDnBo:D BO'pse rfaitliensg. 
+sIynsntoeDmB :e rTrhoirs  nmuimghbte rb e3 2a  ibna cak ufpi loer  oapnetriavtiirouns. 
+sIonfntowDaBr:e  Tohre  aenrortohre rm eiannsst atnhcaet
+ IannnootDhBe:r  opfr oMgyrSaQmL .i sP luesaisneg  cIlnonsoeD Bi'ts  tfoi lgeest. 
+rIindn ooDfB :t hTihsi se rmriogrh.t
+ be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:10:14 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error 2m0e1a8n-s0 6t-h2a7t  0a9n:o1t0h:e1r4  p2rcobg8r a mI ninso DuBs:i nOgp eIrnatnionDgB 'ssy sftielme se.r
+rIonrn onDuBm:b eTrh i3s2  miing hat  fbiel ea  obpaecrkautpi oonr. 
+anItninvoiDrBu:s  Tshoef tewrarroer  omre aannso tthheart  iannsottahnecre 
+pIrnongorDaBm:  iosf  uMsyiSnQgL .I nPnloeDaBs'es  cfliolesse. 
+iItn ntooD Bg:e tT hriisd  moifg htth ibse  ear rboarc.k
+up or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:10:24 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that 2a01n8o-t0h6e-r2 7p r0o9g:r1a0m: 2i4s  2ucsbi8n g  IInnnnooDDBB:' sO pefrialteisn.g
+ IsnynsotDeBm:  eTrhriosr  mniugmhbte rb e3 2a  ibna cak ufpi loer  oapnetriavtiirouns. 
+soIfntnwoaDrBe:  oTrh ea neortrhoerr  mienasntsa ntchea
+tI nannooDtBh:e ro fp rMoygSrQLa.m  Pilse aussei ncgl oIsnneo DiBt' st of igleets .r
+iIdn noofD Bt:h iTsh iesr rmoirg.h
+t be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:10:34 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that2 0a1n8o-t0h6e-r2 7p r0o9g:r1a0m: 3i4s  2ucsbi8ng   IInnnnooDDBB':s  Ofpielreast.i
+nIgn nsoyDsBt:e m Tehrirso rm inguhmtb ebre  3a2  bianc kau pf iolre  aonpteirvaitriuosn .s
+oIfntnwoaDrBe:  oTrh ea neortrhoerr  mienasntsa ntchea
+tI nannooDtBh:e ro fp rMoygSrQaLm.  iPsl euassien gcl oIsnen oiDtB 'tso  fgielte sr.i
+dI nonfo DtBh:i sT heirsr omri.g
+ht be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:10:44 1fac  InnoDB: Operating system error number 32 in a file ope2r0a1t8i-o0n6.-
+2I7n n0o9D:B1:0 :T4h4e  2ecrbr8or   mIenannosD Bt:h aOtp earnaottihnegr  spyrsotgerma me rirso ru sniunmgb eIrn n3o2D Bi'ns  af iflielse. 
+oIpnenroaDtBi:o nT.h
+iIsn nmoiDgBh:t  Tbhee  ae rbraocrk umpea nosr  tahnatti vainroutsh esro fptrwoagrrea mo ri sa nuostihnegr  IinnnsotDaBn'cse 
+fiIlnenso.D
+BI:nn ooDfB :M yTShQiLs.  mPilgehats eb ec lao sbea ciktu pt oo rg eatn triivdi roufs  tshoifst wearrreo ro.r
+ another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:10:54 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means th2a0t1 8a-n0o6t-h2e7r  0p9r:o1g0r:a5m4  i2sc bu8si n gI nInnonDoBD:B 'Osp efrialteisn.g
+ IsnynsotDeBm:  eTrhriosr  mniguhmtb ebre  3a2  bianc a file operatikoupn .o
+rI nannotDiBv:i rTuhse  seorfrtowra rmee aonrs  atnhoatth earn oitnhsetra npcreo
+gIrnanmo DiBs:  usoifn gM yISnQnLo.D BP'lse afsiel ecsl.o
+sIen niotD Bt:o  Tgheits  rmiidg hotf  bteh ias  bearcrkourp. 
+or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:04 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backu2p0 1o8r- 0a6n-t2i7v i0r9u:s1 1s:o0f4t w2acrbe8  o rI nannooDtBh:e rO pienrsattainncge 
+sIynsntoeDmB :e rorfo rM ynSuQmLb.e rP l3e2a sien  cal ofsiel ei to pteor agteito nr.i
+dI nonfo DtBh:i sT heer reorrr.o
+r means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:14 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means th2a0t 1a8n-o0t6h-e2r7  p0r9o:g1r1a:m1 4i s2 cubs8i n gI nInnonDoBD:B 'Osp efrialteisn.g
+ IsnynsotDeBm:  eTrhriosr  mniugmhbte rb e3 2a  ibna cak ufpi loer  oapnetriavtiirouns. 
+sIonfnotDwBa:r eT hoer  earnrootrh emre ainnss ttahnacte 
+aInnontohDeBr:  porfo gMryaSmQ Li.s  Pulseiansge  IcnlnoosDeB 'ist  ftiol egse.t
+ Irnindo DoBf:  tThhiiss  emrirgohrt. 
+be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:24 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: 2o0f1 8M-y0S6Q-L2.7  P0l9e:a1s1e: 2c4l o2sceb 8i t I ntnoo gDeBt:  rOipderat oif ntgh issy setrermo re.r
+ror number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:34 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:34 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:44 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:44 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:11:54 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a back2u0p1 8o-r0 6a-n2t7i v0i9r:u1s1 :s5o4f t2wcabr8e  o rI nannooDtBh:e rO pienrsattainncge 
+sIynsntoeDmB :e rorfo rM ynSuQmLb.e rP l3e2a sien  cal file operaotsieo ni.t
+ tIon ngoeDtB :r iTdh eo fe rtrhoirs  meeansr rtohra.t
+ another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+22001188--0066--2277  0099::1122::0044  12fcabc8    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuumbmebre r3 23 2i ni na  af ifliel eo poepreartaitoino.n
+.
+IInnnnooDDBB::  TThhee  eerrrroorr  mmeeaannss  tthhaatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckkuupp  oorr  aannttiivviirruuss  ssooffttwwaarree  oorr  aannootthheer instance
+Inrn oiDnBs:t aonfc eM
+yISnQnLo.D BP:l eoafs e clMoysSeQ Li.t  Ptloe agseet  crliods eo fi tt htios  geertr orri.d
+ of this error.
+2018-06-27 09:12:14 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means tha2t0 1a8n-o0t6h-e2r7  p0r9o:g1r2a:m14  i1sf aucs i nIgn nIonDnBo:D BO'pse rfaitliensg. 
+sIynsntoeDmB :e rTrhoirs  nmuimgbhetr  b3e2  ai nb aac kfuipl eo ro panetriavtiirouns. 
+sIonfntowDaBr:e  Tohre  aenrortohre rm eiannsst atnhcaet
+ IannnootDhBe:r  opfr oMgyrSaQmL .i sP luesaisneg  cIlnonsoeD Bi'ts  tfoi lgeest. 
+rIind noofD Bt:h iTsh ies rmriogrh.t
+ be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:12:24 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a2 0ba1c8k-u0p6 -o2r 7a n0t9i:v1i2r:u2s4  s1offatcwa r eI nonro DaBn:o Otpheerra tiinnsgtance
+ IsnynsotDeBm:  eorfr oMry SnQuLm.b ePrl e3a2s ei nc lao sfei liet  otpoe rgaetti orni.d
+ Ionfn otDhBis:  eTrhreo re.r
+ror means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:12:34 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:12:34 1fac  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:12:44 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error mean2s0 1t8h-a0t6 -a2n7o t0h9e:r1 2p:r4o4g r1afma ci s  IunsnionDgB :I nOnpoeDrBa'tsi nfgi lseyss.t
+eImn neorDrBo:r  Tnhuimsb emri g3h2t  ibne  aa  fbialcek uopp eorra tainotni.v
+iIrnunso DsBo:f tTwhaer ee rorro ra nmoetahnesr  tihnastt aanncoet
+hIenrn opDrBo:g roafm  MiysS QuLs.i nPgl eIansneo DcBl'oss ef iilte st.o
+ Ignento DrBi:d  Tohfi st hmiisg hetr rboer .a
+ backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+22001188--0066--2277  0099::1122::5544  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroor rn unmubmebre r3 23 2i ni na a  ffiillee  ooppeerraattiioonn..
+
+IInnnoDBn:oD BT:h eT heer reorrr omre amnesa ntsh atth aatn oatnhoetrh eprr opgrroagmr aims  iuss iunsgi nIgn nIonDnBo'DsB 'fsi lfeisl.e
+sI.n
+nIonDnBo:D BT:h iTsh imsi gmhitg hbte  bae  baa cbkaucpk uopr  oarn tainvtiirvuisr usso fstowfatwraer eo ro ra naontohtehre ri nisntsatnacnec
+eI
+nInnonDoBD:B :o fo fM yMSyQSLQ.L .P lPelaesaes ec lcolsoes ei ti tt too  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+22001188--0066--2277  0099::1133::0044  21cfbac8    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDBB::  TThhee  eerrrroorr  mmeeaannss  tthhaatt  aannootthheerr  prporgorgarma mi si su suisnign gI nInnonDoBD'Bs's  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckkuupp  oorr  aannttiivviirruuss  ssooffttwwaarree  oorr  aannootthheerr  iinnssttaannccee
+
+IInnnnooDDBB::  ooff  MMyySSQQLL..  PPlleeaassee  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+2201081-806--2076 -0297: 1039::1143 :11f4a 2cb8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  323 2i ni na  af ifliel eo poepreartaitoino.n
+.I
+nInnonDoBD:B :T hTeh ee rerrorro rm emaensa ntsha tt haanto tahneort hperro gprraomg riasm  uissi nugs iInngn oIDnBn'osD Bf'isl efsi.l
+eIsn.n
+oIDnBn:o DTBh:i sT hmiisg hmti gbhet  ab eb aac kbuapc kourp  aonrt iavnitriuvsi rsuosf tswoafrtew aorre  aonro tahneort hienrs tiannscet
+aInnoDB: of MySQL. Pleasen ccel
+oIsnen oiDtB :t oo fg eMty SrQiLd.  oPfl etahsies  celrorse oirt. 
+to get rid of this error.
+22001188--0066--2277  0099::1133::2244  12fcabc8    IInnnnooDDBB::  OpOepreartaitnign gs yssytsetme me rerrorro rn unmubmebre r3 23 2i ni na  af ifliel eo poepreartaitoino.n
+.I
+nInnonDoBDB::  TThhee  eerrrroorr  mmeeaannss  thtahta ta naontohtehre rp rporgorgarma mi si su suisnign gI nInnonDoBD'Bs' sf iflielse.s
+.I
+nInnonDoBD:B :T hTihsi sm imgihgth tb eb ea  ab abcakcukpup  oorr  aannttiivviirruuss  ssooffttwwaarree  oorr  aannootthheerr  iinnssttaannccee
+
+IInnnnooDDBB::  ooff  MMyySSQQLL..  PPlleeaassee  cclosleo siet  itto  tgoe tg erti dr iodf  otfh itsh iesr reorrr.o
+r.
+22001188--0066--2277  0099::1133::3344  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDBB: :T hTeh ee rerrorro rm emaenasn st htahatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckkupu po ro ra natnitviivriursu ss osfotfwatrwea roer  oarn oatnhoetrh eirn sitnasntcaen
+cIen
+nIonDnBo:D Bo:f  oMfy SMQyLS.Q LP.l ePalseea scel ocsleo siet  itto  tgoe tg erti dr iodf  otfh itshi se rerrorr.
+or.
+2018-06-27 09:13:44 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that2 0a1n8o-0t6h-e2r7  p0r9o:g1r3a:m 4i4s  1ufsaicn  gI nInnonDoBD:B 'Osp efrialteisn.g
+ IsnynsotDeBm:  eTrhriosr  mniugmhbte rb e3 2a  ibna cak ufpi loer  opaenrtaitviiornu.s
+ IsnonfotDwBa:r eT hoer  earnrootrh er imnesatnasn cteh
+aItn naonDoBt:h eorf  pMryoSgQLr.a mP liesa sues icnlgo sIen noiDtB 'tso  fgielte sr.i
+dI nonfo DtBh:i sT heirsr omri.g
+ht be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:13:54 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means2 0t1h8a-t0 6a-n2o7t h0e9r: 1p3r:o5g4r a1mf aics   uIsninnogD BI:n nOopDeBr'astin gf islyesst.e
+mI nenrorDoBr:  nTuhmibse rm i3g2h ti nb ea  af iblaec kouppe roart iaonnt.i
+vIinrnuosD Bs:o fTthwea reer roorr  amneoatnhse rt hiants tanaontchee
+rI npnrooDgBr:a mo fi sM yuSsQiLn.g  PIlnenaosDeB 'csl ofsiel eist. 
+tIon ngoeDtB :r iTdh iofs  tmhiigsh te rbreo ra. 
+backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:14:04 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that a2n0o1t8h-e0r6 -p27r o0g9r:a1m4 :i0s4  u1sfiancg   IInnnnooDDBB':s  Ofpielreast.i
+nIgn nsoyDsBt:e mT heirsr omri gnhutm bbeer  a3 2b aicnk uap  foirl ea notpievriartuiso ns.o
+fItnwnaorDeB :o rT haen oetrhreorr  imnesatnasn cteh
+aItn naonDoBt:h eorf  pMryoSgQLr.a mP liesa sues icnlgo sIen niotD Bt'os  gfeitl ersi.d
+ Ionfn otDhBi:s  Tehrirso rm.i
+ght be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 09:14:14 2cb8  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error me2a0n1s8 -th0a6t- 2a7n o0t9h:e1r4 :p1r4o g1rfaamc  i sIn nuosDiBn:g  OIpnenroaDtBi'nsg  fsiylsetse.m
+ IenrnrooDrB :n uTmhbiesr  m3i2g hitn  bae  fai lbea cokpuepr aotri oann.t
+iIvninruosD Bs:o fTthwea reer roorr  amneoatnhse rt hiants taannocteh
+eIrn nporDoBg:r aomf  iMsy SuQsLi.n gP lIenansoeD Bc'lso sfei liets .t
+oI ngento DrBi:d  oTfh itsh imsi gehrtr obre. 
+a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+22001188--0066--2277  0099::141:424: 214f a2cc b 8In n oIDnBn:o DOBp:e rOapteriantgi nsgy sstyesmt eemr reorrr onru mnbuemrb e3r2  3i2n  ian  fai lfei loep eorpaetriaotni.o
+nI.n
+noIDBn:n oTDhBe:  eTrhreo re rmreoarn sm etahnast  tahnaott haenro tphreorg rparmo girsa m uissi nugs iInngn oDIBn'nso DfBi'ls feisl.
+InnoDB:e Tsh.i
+sI nmniogDhBt:  bTeh ias  bmaicgkhutp  boer  a abnatcikvupi rours  saonfttiwvarier uosr  saonfottwhaerre  ionsrt aanncoet
+hIenrn oiDnBs:t aonfc eM
+yISnQnLo.D BP:l eoafs eM ycSlQoLs.e  Pilte atsoe  gcelto srei di to ft ot hgise te rrriodr .o
+f this error.
+22001188--0066--2277  0099::1144::3344  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+InInnonDoBDB::  TThhee  eerrrroorr  mmeeaannss  tthhaatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckkuupp  oorr  aannttiivviirruuss  ssooffttwwaarree  oorr  aannootthheerr  iinnssttaannccee
+
+IInnnnooDDBB::  ooff  MMyySSQQLL..  PPlleeaassee  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+22001188--0066--2277  0099::1144::4444  12fcabc8    InInnonDoBD:B :O pOepreartaitnign gs yssytsetme me rerrorro rn unmubmebre r3 23 2i ni na  af ifliel eo poepreartaitoino.n
+.I
+nInnonDoBD:B :T hTeh ee rerrorro rm emaenasn st htahta ta naontohtehre rp rporgorgarma mi si su suisnign gI nInnonDoBD'Bs' sf iflielse.s
+.I
+nInnonDoBD:B :T hTihsi sm imgihgth tb eb ea  ab abcakcukpup  oorr  aannttiivviirruuss  ssooffttwwaarree  oorr  aannootthheerr  iinnssttaannccee
+
+IInnnnooDDBB::  ooff  MMyySSQQLL..  PPlleeaassee  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthihsi se rerrorror..
+
+22001188--0066--2277  0099::1144::5544  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDB:B :T hTeh ee rerrorro rm emaenasn st htahtat  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee a  ab abcakcukpu po ro ra natnitviivriursu ss osfotfwtawraer eo ro ra naontohtehre ri nisntsatnacnec
+eI
+nInnonDoBD:B :o fo fM yMSyQSLQ.L .P lPeleaassee  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+22001188--0066--2277  0099::151:50:40 41f a2cc b 8I n nIonDnBo:D BOp:e rOapteirnagt isnygs tseyms teermr oerr rnourm bneurm b3e2r  i3n2  ai nf ial ef iolpee roapteiroant.i
+oInn.n
+oIDnBn:o DThBe:  eTrhreo re rmreoarn sm etahnast  tahnaott haenro tphreorg rparmo girsa m iuss iunsgi nIgn nIonDnBo'DsB 'fsi lfeisl.e
+sI.n
+nIonDnBo:D BT:h iTsh imsi gmhitg hbte  bae  baa cbkaucpk uopr  oarn tanitviivriursu ss osfotfwtawraer eo ro ra naontohtehre ri nisntsatnacnec
+eI
+nInnonDoBD:B :o fo fM yMSyQSLQ.L .P lPelaesasee  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+22001188--0066--2277  0099::1155::1144  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDB:B :T hTeh ee rerrorro rm emaenasn st htahta ta naontohtehre rp rporgorgarma mi si su suisnign gI nInnonDoBD'Bs' sf iflielse.s
+.I
+nInnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckkuupp  oorr  aannttiivviirruuss s osfotfwtawraer eo ro ra naontohtehre ri nisntsatnacnec
+eI
+nInnonDoBD:B :o fo fM yMSyQSLQ.L .P lPelaesaes ec lcolsoes ei ti tt ot og egte tr irdi do fo tfh itsh iesr errorro.r
+.
+201280-1086--0267- 270 90:91:51:52:42 41 f2accb8    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDB:B :T hThee  eerrrroorr  mmeeaannss  tthhaatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDBB::  TThhiiss  mmiigghhtt  bbee  aa  bbaacckkuupp  oorr  aannttiivviirruuss  ssooffttwwaarree  oorr  aannootthheerr  iinnssttaannccee
+
+IInnnnooDDBB::  ooff  MMyySSQQLL..  PPlleeaassee  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+22001188--0066--2277  0099::1155::3344  21cfba8c    IInnnnooDBD:B :O pOepreartaitnign gs yssytsetme me rerrorro rn unmubmebre r3 23 2i ni na  af ifliel eo poepreartaitoino.n
+.I
+nnIonDnBo:D BT:h eT heer reorrr orm emaenasn st htahta ta naontohterh eprr opgrroagmr aims  iuss iunsgi nIgn nIonDnBo'DsB 'fsi lfeisl.e
+sI.n
+nIonDnBo:D BT:h iTsh imsi gmhitg hbte  bae  baa cbkaucpk uopr  oar natnitviivriursu ss osfotfwtawraer eo ro ra naontohtehre ri nisntsatannccee
+
+IInnnnooDDBB::  ooff  MMyySSQQLL..  PPlleeaassee  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+22001188--0066--2277  0099::1155::4444  2c1bf8ac    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDBB::  TThhee  eerrrroorr  mmeeaannss  tthhaatt  aannootthheerr  pprrooggrraamm  iiss  uussiinngg  IInnnnooDDBB''ss  ffiilleess..
+
+IInnnnooDDB:B :T hTihsi sm imgihgth tb eb e aa  bbaacckkuupp  oorr  aannttiivviirruuss  ssooffttwwaarree  oorr  aannootthheerr  iinnssttaannccee
+
+InInnonDoBD:B :o fo fM yMSyQSLQ.L .P lPelaesaese  cclloossee  iitt  ttoo  ggeett  rriidd  ooff  tthhiiss  eerrrroorr..
+
+22001188--0066--2277  0099::151:554 :25c4b 81 f aIcn n oIDnBn:o DOBp:e rOapteirnagt isnygs tseyms teermr oerr rnourm bneurm b3e2r  i3n2  ai nf ial ef iolpee roapteiroant.i
+oInn.n
+oIDnBn:o DTBh:e  Tehrer oerr rmoera nmse atnhsa tt haanto tahneort hperro gprraomg riasm  uissi nugs iInngn oIDnBn'osD Bf'isl efsi.l
+eIsn.n
+oIDnBn:o TDhBi:s  Tmhiigsh tm ibgeh ta  bbea cak ubpa cokru pa notri vainrtuisv isroufst wsaorfet woarr ea noort haenro tihnesrt ainncset
+aInncneo
+DIBn:n ooDfB :M yoSfQ LM.y SPQlLe.a sPel ecalsoe scel oiste  tiot  gteot  greitd  roifd  tohfi st heirsr oerr.r
+or.
+22001188--0066--227 70 90:91:61:60:40 42 c1bf8a c  I nInnonDoDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  32 in a file opera3t2i oinn .a
+ fIinlen ooDpBe:r aTthieo ne.r
+rIonrn omDeBa:n sT hteh aetr raonro tmheearn sp rtohgarta ma niost huesri npgr oIgnrnaomD Bi'ss  ufsiilnegs .I
+nInnonDoBD'Bs:  fTihliess .m
+iIgnhnto DbBe:  aT hbiasc kmuipg hotr  baen tai vbiarcuksu ps oofrt waanrtei voirr uasn ostohfetrw airnes toarn caen
+oItnhneorD Bi:n sotfa nMcyeS
+QILn.n oPDlBe:a soef  cMlyoSsQeL .i tP lteoa sgee tc lroisde  oift  tthoi sg eetr rorri.d
+ of this error.
+22001188--0066--2277  0099::1166::1144  21cfba8c    IInnnnooDDBB::  OOppeerraattiinngg  ssyysstteemm  eerrrroorr  nnuummbbeerr  3322  iinn  aa  ffiillee  ooppeerraattiioonn..
+
+IInnnnooDDB:B :T hTeh ee rerrorro rm emaenasn st htahta ta naontohtehre rp rporgorgarma mi si su suisnign gI nInnonDoBD'Bs' sf iflielse.s
+.I
+nInnonDoBD:B :T hTihsi sm imghitg hbte  bae b aac kbuapc koru pa notri vainrtuisv isroufst wsaorfet woarr ea noort haenro tihnesrt ainncset
+aInncneo
+DIBn:n ooDfB :M yoSfQ LM.y SPQleLa.s eP lcelaossee  cilto steo  igte tt or igde to fr itdh iosf  etrhriosr .e
+rror.
+2201081-80-606--2277  1122::2288::5566  22b47e40  IInnnnooDBD:B :W aWranrinnign:g :U sUisnign gi ninnondobd_ba_daddidtiiotniaoln_amle_mm_epmo_oplo_osli_zsei zies  iDsE PDREEPCRAETCEADT.E DT.h iTsh iosp toipotni omna ym abye  bree mroevmeodv eidn  ifnu tfuurteu rree lreealseeass,e st,o gteotgheetrh ewri twhi tthh et hoep toipotni oinn niondnbo_dubs_eu_ssey_ss_ymsa_lmlaolcl oacn da nwdi twhi tthh et hIen nIonDnB'osD Bi'nst eirnntaelr nmaelm omreym oarlyl oaclaltoocra.t
+or.
+201280-1086--0267- 2172 :1228::2586: 5161 192444 0[ N[oNtoet]e ]I nInnonDoDBB::  iinnnnooddbb__eemmppttyy__ffrreeee__lliisstt__alaglogroirtihtmh mh ahsa sb ebeene nc hcahnagnegde dt o tloe glaecgya cbeyc abuescea uosf es moafl ls mbaulflf ebru ffpeoro lp osoilz es.i zIen.  oIrnd eorr dteor  utsoe  ubsaec kboafcfk,o fifn,c rienacsree absuef fbeurf fpeoro lp oaotl  laeta slte ausp tt ou p2 0tMoB .2
+0
+MB.
+
+22001188--0066--27 12:28:2576  1121:12248 :[5N6o t9e4]4 0I n[nNooDtBe:] U sIinnngo DmBu:t eUxseisn gt om urteefx ecso utnot  rbeuff fceoru nt buffer pool pages
+pool pages
+2018-06-27 12:22081:85-60 61-12172 41 2[:N2o8t:e5]6  I9n4n4o0D B[:N oTthee]  IInnnnooDDBB :m eTmhoer yI nhneoDaBp  miesm odriys ahbelaepd 
+is disabled
+2018-06-27 12:28:562 011181-2046- 2[7N o1t2e:]2 8I:n5n6o D9B4:4 0M u[tNeoxtees]  aInndn orDwB_:l oMcuktse xuesse  aWnidn droww_sl oicnktse rulsoec kWeidn dfouwnsc tiinotnesr
+locked functions
+2018-06-27 12:28:562 0181-10162-42 7[ N1o2t:e]2 8I:n5n6o D9B4:4 0_ m[mN_oltfee]n cIen(n)o DaBn:d  __mmmm__lsffeennccee(())  aanrde  _umsme_ds ffeonrc em(e)m oarrye  buasrerdi efro
+r memory barrier
+2018-06-27 21021:82-80:65-62 71 11122:4 2[8N:o5t6e ]9 4I4n0n o[DNBo:t eC]o mIpnrneossDeBd:  tCaobmlperse susseed  ztlaibbl e1s. 2u.s3e
+ zlib 1.2.3
+2018-06-27 122:02188:-5066 -12171 2142 :[2N8o:t5e6]  9I4n4n0o D[BN:o tUes]i nIgn ngoeDnBe:r iUcs icnrgc 3g2e nienrsitcr uccrtci3o2n si
+nstructions
+2018-06-27 12:28:56 9440 [Note] InnoDB: Ini2t0ia1l8i-z0i6n-g27  b1u2f:f2e8r :p5oo6l ,1 1s1i2z4e  [=N o1t6e.]0 MI
+nnoDB: Initializing buffer pool, size = 16.0M
+2018-06-27 12:28:56 11124 [N2o0te1]8 -I0n6n-o2D7B :1 2C:o2m8p:l5e6t e9d4 4i0n i[tNioatlei]z aItninoonD Bo:f  Cboumfpfleert epdo oiln
+itialization of buffer pool
+2018-06-27 12:28:56 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:28:57 11124 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-27 12:28:57 11124 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2228834 in the ib_logfiles!
+2018-06-27 12:28:59 11124 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-27 12:29:06 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:29:07 11124 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-27 12:29:07 11124 [Note] InnoDB: Waiting for purge to start
+2018-06-27 12:29:07 11124 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2228834
+2018-06-27 12:29:08 6780 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-27 12:29:08 11124 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-27 12:29:09 11124 [Note] Server socket created on IP: '::'.
+2018-06-27 12:29:16 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:29:17 11124 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-27 12:29:26 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:29:36 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:29:46 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:29:56 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:30:06 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:30:16 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:30:26 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:30:36 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:30:46 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:30:56 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:31:06 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:31:16 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:31:26 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:31:36 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:31:46 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:31:56 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:32:06 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:32:16 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:32:26 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:32:36 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:32:46 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-06-27 12:32:56 24e0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-07-02 16:12:33 1934 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-07-02 16:12:33 6452 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-07-02 16:12:33 6452 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-07-02 16:12:33 6452 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-02 16:12:33 6452 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-07-02 16:12:33 6452 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-07-02 16:12:33 6452 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-02 16:12:33 6452 [Note] InnoDB: Using generic crc32 instructions
+2018-07-02 16:12:33 6452 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-07-02 16:12:33 6452 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-02 16:12:33 6452 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-02 16:12:33 6452 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2229060 in the ib_logfiles!
+2018-07-02 16:12:35 6452 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-07-02 16:12:38 6452 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-02 16:12:38 6452 [Note] InnoDB: Waiting for purge to start
+2018-07-02 16:12:38 6452 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2229060
+2018-07-02 16:12:39 11552 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-07-02 16:12:39 6452 [Note] Plugin 'FEEDBACK' is disabled.
+2018-07-02 16:12:39 6452 [Note] Server socket created on IP: '::'.
+2018-07-02 16:12:40 6452 [Note] h:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.33-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
